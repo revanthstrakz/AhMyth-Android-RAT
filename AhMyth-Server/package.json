@@ -5,9 +5,9 @@
     },
     "license": "GNU GPLv3",
     "build": {
-        "appId": "Ahmyth.android.rat",
+        "appId": "Strakz.android.rat",
         "win": {
-	    "publisherName" : "AhMyth",
+	    "publisherName" : "Strakz-RAT",
             "icon": "build/icon.ico"
         },
         "asarUnpack": "**/app/Factory/**/*"
