@@ -1,10 +1,10 @@
 {
-    "name": "AhMyth",
+    "name": "Strakz-RAT",
     "description": "Android Remote Administration Tool",
-    "author": "AhMyth <AhMyth@protonmail.com>",
-    "productName": "AhMyth",
-    "version": "1.0.0",
-    "homepage":"https://github.com/AhMyth/AhMyth-Android-RAT",
+    "author": "Revanth <revanth@strakz.ml>",
+    "productName": "Strakz-RAT",
+    "version": "2.0.0",
+    "homepage":"https://github.com/revanthstrakz/strakz-rat",
     "main": "main.js",
     "dependencies": {
         "angular": "1.5.8",
